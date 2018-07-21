@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreferencesApp</string>
+    <string name="new_screen">Новый экран 1</string>
+    <string name="new_screen_2">Новый экран 2</string>
+</resources>
